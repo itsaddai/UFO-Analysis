@@ -47,7 +47,7 @@ More open land → Easier to spot flying objects in rural areas
 Higher awareness → Media and government reports fuel interest
 Military testing areas → Some sightings may be experimental aircraft
 Graph: (Tableau map of UFO hotspots) 🗺️
-![UFO Analysis by Country]([tableau/UFO Sightings by Country.png](https://github.com/itsaddai/UFO-Analysis/blob/main/tableau/UFO_Sightings_by_Country.png)
+![UFO Analysis by Country](https://github.com/itsaddai/UFO-Analysis/blob/main/tableau/UFO_Sightings_by_Country.png)
 
 # Tableau Dashboard
 ![UFO Analysis Dashboard](https://github.com/itsaddai/UFO-Analysis/blob/main/tableau/UFO_Analysis_Dashboard.png)
