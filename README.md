@@ -50,7 +50,7 @@ Graph: (Tableau map of UFO hotspots) 🗺️
 ![UFO Analysis by Country](https://github.com/itsaddai/UFO-Analysis/blob/main/tableau/UFO_Sightings_by_Country.png)
 
 # Tableau Dashboard
-![UFO Analysis Dashboard](https://github.com/itsaddai/UFO-Analysis/blob/main/tableau/UFO_Analysis_Dashboard.png)
+![UFO Analysis Dashboard](https://github.com/itsaddai/UFO-Analysis/blob/main/tableau/UFO Analysis Dashboard.png)
 
 🛠️ Technologies Used
 <br>
